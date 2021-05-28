@@ -20,8 +20,6 @@ Designed for GitHub Pages for super easy set up.
 <img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
 
 
-
-
 ## Quick Start
 
 ### Step 1: Fork this repo.

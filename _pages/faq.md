@@ -14,3 +14,4 @@ There are a few reasons for that, such as:
 - **Privacy**. Your data is not for sale nor will ever be.
 - **Software infrastructure and streaming costs**. The software infrastructure that supports your bookmarks, your preferences, etc has its cost as well.
 - **Giving back to Wikipedia**. It's great to be able to give back to Wikipedia - they deserve it!
+- **Support an independent developer**.

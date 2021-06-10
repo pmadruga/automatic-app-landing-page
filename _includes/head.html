@@ -18,4 +18,8 @@
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
 
 	{% seo %}
+
+	{% if jekyll.environment == 'production' %}
+  	{% include analytics.html %}
+  	{% endif %}
 </head>

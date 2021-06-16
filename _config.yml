@@ -133,3 +133,9 @@ plugins:
   - jekyll-seo-tag
   - octopress-minify-html
   - amp-jekyll
+
+screenshots:
+  - 1.jpeg
+  - 2.jpeg
+  - 3.jpeg
+  - 4.jpeg
